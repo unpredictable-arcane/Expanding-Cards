@@ -7,7 +7,7 @@ When a user clicks on a card, it smoothly expands to reveal its content while sh
 
 ## 🚀 Demo
 
-![Preview](/Screenshot%202025-11-02%20221805.pngScreenshot)  
+![Preview](./Screenshot%202025-11-02%20221805.png)  
 
 
 ---
